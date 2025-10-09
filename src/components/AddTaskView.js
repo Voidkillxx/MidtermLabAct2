@@ -6,3 +6,4 @@ const AddTaskView = ({ addTask }) => {
 };
 
 export default AddTaskView;
+
